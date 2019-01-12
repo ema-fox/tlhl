@@ -139,7 +139,7 @@ see [examples.py](examples.py) for the real deal.
 This;
 
     (html,
-      (head, (title, Hello World")),
+      (head, (title, "Hello World")),
       (body,
         (h1, "Hello World")))
 
